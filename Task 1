@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <style>
+         table th, table td{
+        padding: 10px; /* Apply cell padding */
+    };</style>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Task 1</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="F:\session\techsession1\html files\index.css">
+        
+    </head>
+    <body background="Background.png"><table><tr><td align="left"><img src="https://raw.githubusercontent.com/AdityaKumar-01/Task1/master/logo.png" alt="first pic"></td>
+    <td>
+        <table align="right">
+            <tr>
+                <td align="right">
+                    <img src="line.jpg" alt="Three bars" id="iconID" >
+                </td>
+            </tr>
+        </table>
+    </td></tr></table>
+       
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1><p style="color:rgb(0, 225, 255) ">ABOUT US</p></h1>
+        <br>
+        <br>
+        <br>
+        <table>
+            <tr><h3><th scope="col"><p style="color:rgb(0, 225, 255)">PROJECTS</p></th>
+                <th scope="col"><p style="color:rgb(0, 225, 255)">TEAM</p></th>
+                <th scope="col"><p style="color:rgb(0, 225, 255)">SPONSOR</p></th></h3>
+                
+            </tr>
+            <tr><h4>
+                <td><p style="color:rgb(236, 246, 247)">Lorem ipsum, dolor sit amet consectetur adipisicing elit.Dolorum maxime harum amet hic impedit corporis facere optio aperiam delectus dignissioms quidem iste et magni, debitis, recusandae voluptates! Atque, vitae! Molestias at, voluptate tempore dignissimos eius magnam fugiat voluptates, similique ex quisquam quam minus laudantium repellat nemo sed vero deserunt.</p></td>
+                <td><p style="color:rgb(236, 246, 247)">Lorem ipsum, dolor sit amet consectetur adipisicing elit.Dolorum maxime harum amet hic impedit corporis facere optio aperiam delectus dignissioms quidem iste et magni, debitis, recusandae voluptates! Atque, vitae! Molestias at, voluptate tempore dignissimos eius magnam fugiat voluptates, similique ex quisquam quam minus laudantium repellat nemo sed vero deserunt.</p></td>
+                <td><p style="color:rgb(236, 246, 247)">Lorem ipsum, dolor sit amet consectetur adipisicing elit.Dolorum maxime harum amet hic impedit corporis facere optio aperiam delectus dignissioms quidem iste et magni, debitis, recusandae voluptates! Atque, vitae! Molestias at, voluptate tempore dignissimos eius magnam fugiat voluptates, similique ex quisquam quam minus laudantium repellat nemo sed vero deserunt.</p></td>
+            </tr>
+        </table>
+        <br><br>
+        <br><br>
+        <br><br>
+        <table align="right" cellspacing="5">
+            <tr>
+                <td>
+                    <img src="fb.jpg" alt="FB LOGO">
+
+                </td>
+                <td><img src="git.jpg" alt="GIT icon"></td>
+                <td>
+                    <img src="locator.jpg" alt="Locator logo">
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
